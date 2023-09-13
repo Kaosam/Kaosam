@@ -1,6 +1,8 @@
 ### Hello World 👋
 🍄 Python, Javascript (Node.js, Next.js, React.js, Typescript)
+
 📁 MongoDB, Firebase
+
 🛠️ Github, Docker, Linux
 
 <!--
