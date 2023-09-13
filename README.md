@@ -1,9 +1,7 @@
 ### Hello World 👋
-🏗 Node.js, Python, Firebase, MongoDB
-
-🎨 Next.js/React.js, Typescript
-
-📁 Git, Linux, Docker
+🍄 Python, Javascript (Node.js, Next.js, React.js, Typescript)
+📁 MongoDB, Firebase
+🛠️ Github, Docker, Linux
 
 <!--
 **Kaosam/Kaosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
