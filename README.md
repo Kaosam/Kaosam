@@ -1,9 +1,9 @@
 ### Hello World 👋
-🍄 Python, Javascript (Node.js, Next.js, React.js, Typescript)
+🍄 Python (Django, Flask, FastAPI), Javascript (Node.js, Nest.js, Next.js)
 
 📁 MongoDB, Firebase
 
-🛠️ Github, Docker, Linux
+🛠️ Github, Docker, ELK, Linux, GCP
 
 <!--
 **Kaosam/Kaosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
