@@ -1,5 +1,5 @@
 ### Hello World 👋
-🍄 Python (Django, Flask, FastAPI), Javascript (Node.js, Nest.js, Next.js)
+🍄 Python (Django, Flask, FastAPI), Javascript/TS (Node.js, Nest.js, Next.js)
 
 📁 MongoDB, Firebase
 
