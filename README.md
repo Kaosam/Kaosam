@@ -10,7 +10,6 @@ I design and ship AI agents and LLM-powered solutions to production.
 - 🛡️ [CyberChallenge.IT](https://cyberchallenge.it) 2019 national finalist, team leader for Unicam
 - 📍 Castelfidardo (AN), Italy · Full Remote
 
-**AI:** AI agents · LLM · RAG · n8n
 **Stack:** Python (FastAPI, Django) · TypeScript/Node (NestJS, Next.js) · MongoDB · Supabase · Docker · GCP
 
 📫 [LinkedIn](https://www.linkedin.com/in/samuel-piatanesi/) · [X](https://x.com/samuelpiatanesi)
