@@ -1,21 +1,15 @@
-### Hello World 👋
-🍄 Python (Django, Flask, FastAPI), Javascript/TS (Node.js, Nest.js, Next.js)
+# Hi, I'm Samuel 👋
 
-📁 MongoDB, Firebase, Supabase
+**AI & Software Engineer** · Freelance · Forbes Under 30 Italy 2025
 
-🛠️ Github, Docker, ELK, Linux, GCP, N8N
+I design and ship AI agents and LLM-powered solutions to production.
 
-<!--
-**Kaosam/Kaosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 CTO @ [Mine Crime](https://www.minecrime.it)
+- 🛠️ Tech Lead @ [Keycense](https://www.keycense.com)
+- 🏆 Named in the **Forbes Italia Under 30 2025 Top 100** (Social Impact)
+- 🛡️ [CyberChallenge.IT](https://cyberchallenge.it) 2019 national finalist, team leader for Unicam
+- 📍 Castelfidardo (AN), Italy · full remote
 
-Here are some ideas to get you started:
+**Stack:** Python (FastAPI, Django) · TypeScript/Node (NestJS, Next.js) · MongoDB · Supabase · Docker · GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/samuel-piatanesi/) · [X](https://x.com/samuelpiatanesi)
