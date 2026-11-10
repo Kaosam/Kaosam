@@ -6,6 +6,7 @@ I design and ship AI agents and LLM-powered solutions to production.
 
 - 🚀 Co-Founder & CTO @ [Mine Crime](https://www.minecrime.it) · Sifted 100 Southern Europe 2026 (#42)
 - 🛠️ Tech Lead @ [Keycense](https://www.keycense.com)
+- 🏓 Creator of [TT Arena](https://ttarena.it)
 - 🏆 **Forbes Under 30 Italy 2025** · Social Impact
 - 🛡️ [CyberChallenge.IT](https://cyberchallenge.it) 2019 national finalist, team leader for Unicam
 - 📍 Castelfidardo (AN), Italy · Full Remote
